@@ -8,25 +8,19 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-(Respuesta)
+Mi primer repositorio
  
 ### 😮 ¿Qué es GitHub?
-(Respuesta)
+Una pagina web que ayuda a modificar codigos y guarda cada version
  
 ### 🎯 ¿Para qué me sirve?
-(Respuesta)
- 
+Para guardar versiones de hace tiempo y  poder volverlo a usar si es necesario
 ---
  
 ## ✍️ Mi progreso
-Aquí ya realicé varios cambios en GitHub.
- 
+Versión 3 
 ---
  
 ## 👤 Sobre mí
-Nombre:
-Curso: 
-ver menos
-Responder
-tiene menú contextual
-Publicar en el canal
+Nombre: Marly Valarezo
+Curso: Diploma 1
